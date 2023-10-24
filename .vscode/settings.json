@@ -1,0 +1,10 @@
+{
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.defaultFormatter": null,
+  "editor.defaultFoldingRangeProvider": null,
+  "css.format.enable": true,
+  "editor.defaultColorDecorators": true,
+  "editor.foldingImportsByDefault": true
+}
